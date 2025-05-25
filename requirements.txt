@@ -1,8 +1,8 @@
 python-dotenv
 pandas
 numpy
-# pymongo
-# certifi
+pymongo
+certifi
 # pymongo[srv]
 # scikit-learn
 # mlflow
@@ -13,4 +13,4 @@ numpy
 # python-multipart
 
 
-##-e .
+# -e .
